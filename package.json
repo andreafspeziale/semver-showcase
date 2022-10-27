@@ -1,6 +1,6 @@
 {
   "name": "semver-showcase",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Semantic versioning showcase using Github action and standard-version",
   "main": "index.js",
   "scripts": {
