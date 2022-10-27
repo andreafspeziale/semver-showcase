@@ -1,0 +1,14 @@
+{
+  "name": "semver-showcase",
+  "version": "1.0.0-rc.0",
+  "description": "Semantic versioning showcase using Github action and standard-version",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "author": "Andrea Francesco Speziale",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
