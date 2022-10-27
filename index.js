@@ -1,2 +1,1 @@
-console.log('Hello, world!');
-console.log('From Andrea.');
+console.log('Hello, world! From Andrea.');
